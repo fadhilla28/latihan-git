@@ -1,2 +1,3 @@
 ini adalah bab 1
-ini adalah revisi satu
+ini adalah revisi kesatu
+ini adalah revisi kedua
